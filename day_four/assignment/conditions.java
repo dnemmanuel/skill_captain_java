@@ -9,7 +9,7 @@ public class conditions {
         int numOne = scannerObj.nextInt();
         scannerObj.nextLine();
 
-        System.out.print("Enter your seconc number: ");
+        System.out.print("Enter your second number: ");
         int numTwo = scannerObj.nextInt();
         scannerObj.nextLine();
 
