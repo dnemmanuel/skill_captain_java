@@ -1,4 +1,4 @@
-package day_six.assignments;
+package day_6;
 
 public class forLoop {
     public static void main(String[] args) {

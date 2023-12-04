@@ -1,4 +1,4 @@
-package day_two.assignment;
+package day_2;
 
 public class dataTypes {
     public static void main(String[] args) {

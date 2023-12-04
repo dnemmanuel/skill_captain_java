@@ -1,4 +1,4 @@
-package day_four.assignment;
+package day_4;
 import java.util.Scanner;
 
 public class conditions {
